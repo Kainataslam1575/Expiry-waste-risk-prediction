@@ -1,1 +1,11 @@
-
+Product,Current_Stock,Daily_Sales,Days_to_Expiry,Product_Age,Promotion,Demand_Variability,Expiry_Risk
+Yogurt,500,70,4,2,0,15,1
+Milk,300,90,2,1,0,20,1
+Juice,200,45,10,3,0,8,0
+Bread,150,25,2,1,1,12,1
+Cheese,100,15,15,5,0,5,0
+Yogurt,400,100,7,2,1,10,0
+Milk,250,30,3,2,0,18,1
+Juice,350,60,12,2,1,7,0
+Bread,200,20,3,2,0,15,1
+Cheese,180,25,20,4,0,6,0
